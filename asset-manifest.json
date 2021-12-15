@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/Treino1/static/css/main.86acdda1.css",
-    "main.js": "/Treino1/static/js/main.bcddcfa8.js",
+    "main.css": "/Treino1/static/css/main.65c74e3e.css",
+    "main.js": "/Treino1/static/js/main.2d001173.js",
     "static/js/787.2cef4feb.chunk.js": "/Treino1/static/js/787.2cef4feb.chunk.js",
     "static/media/bg.jpg": "/Treino1/static/media/bg.c74bdb193e064394aa5c.jpg",
-    "static/media/intro-bg.jpg": "/Treino1/static/media/intro-bg.1a8c58441daedced6444.jpg",
     "static/media/fontawesome-webfont.svg?v=4.2.0": "/Treino1/static/media/fontawesome-webfont.083a1c3461b427ea103b.svg",
     "static/media/icomoon.svg?jo2z5t": "/Treino1/static/media/icomoon.2deaf70e8a227525f57b.svg",
+    "static/media/profile-pic.png": "/Treino1/static/media/profile-pic.f42e82307c17a402805d.png",
     "static/media/lora-bolditalic-webfont.svg": "/Treino1/static/media/lora-bolditalic-webfont.748b4fbd9d755ede2214.svg",
     "static/media/lora-italic-webfont.svg": "/Treino1/static/media/lora-italic-webfont.1fb37f51ec0d3c4f7c63.svg",
     "static/media/fontawesome-webfont.ttf?v=4.2.0": "/Treino1/static/media/fontawesome-webfont.670e1210f375c1590bd4.ttf",
@@ -33,6 +33,7 @@
     "static/media/poppins-regular-webfont.ttf": "/Treino1/static/media/poppins-regular-webfont.f989af38f53e1ad4b2d2.ttf",
     "static/media/poppins-light-webfont.ttf": "/Treino1/static/media/poppins-light-webfont.4e9feb68ece61584ee5f.ttf",
     "static/media/poppins-bold-webfont.ttf": "/Treino1/static/media/poppins-bold-webfont.5f4a62adccf687c3ade9.ttf",
+    "static/media/Image_Cover.jpg": "/Treino1/static/media/Image_Cover.d42e14ac2d54aa32c8b2.jpg",
     "static/media/lora-italic-webfont.eot": "/Treino1/static/media/lora-italic-webfont.dd9d520bb924d6ed3a69.eot",
     "static/media/lora-bolditalic-webfont.eot": "/Treino1/static/media/lora-bolditalic-webfont.5c47ebbaa6a83f2bcb4e.eot",
     "static/media/lora-bold-webfont.woff": "/Treino1/static/media/lora-bold-webfont.9228957290eba22ede7b.woff",
@@ -56,12 +57,12 @@
     "static/media/poppins-bold-webfont.woff2": "/Treino1/static/media/poppins-bold-webfont.afa55343836049a5f8c6.woff2",
     "static/media/logo.svg": "/Treino1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Treino1/index.html",
-    "main.86acdda1.css.map": "/Treino1/static/css/main.86acdda1.css.map",
-    "main.bcddcfa8.js.map": "/Treino1/static/js/main.bcddcfa8.js.map",
+    "main.65c74e3e.css.map": "/Treino1/static/css/main.65c74e3e.css.map",
+    "main.2d001173.js.map": "/Treino1/static/js/main.2d001173.js.map",
     "787.2cef4feb.chunk.js.map": "/Treino1/static/js/787.2cef4feb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86acdda1.css",
-    "static/js/main.bcddcfa8.js"
+    "static/css/main.65c74e3e.css",
+    "static/js/main.2d001173.js"
   ]
 }
